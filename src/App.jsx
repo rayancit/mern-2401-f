@@ -1,7 +1,9 @@
+import Mohib from "./components/Mohib";
+
 function App() {
   return (
     <>
-      <h1>hello world</h1>
+      <Mohib />
     </>
   );
 }
